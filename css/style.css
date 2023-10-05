@@ -1,0 +1,27 @@
+/*header style*/
+.header {
+    /* display: flex; */
+}
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    padding:  66.5px 0px 0px 350px;
+}
+.nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+.li-item {
+    display: inline-block;
+    vertical-align: middle;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #37393F;
+}
+.consult {
+    color: #FFFFFF;
+    font-family: 'Cabin', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
