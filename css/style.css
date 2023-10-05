@@ -13,6 +13,7 @@
     padding:  66.5px 0px 0px 350px;
 }
 .navigation {
+    display: flex;
     margin-left: 195px;
     padding-top: 77.5px;
     justify-content: space-between;
@@ -31,8 +32,6 @@
     font-size: 18px;
     font-weight: 600;
     text-align: center;
-}
-.boxing {
     background-color: #6B77E5;
     padding: 21px 35px 22px 35px;
     width: 184px;
