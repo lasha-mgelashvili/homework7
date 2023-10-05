@@ -232,6 +232,9 @@
     height: 532px;
     margin-right: 31px;
 }
+.img-div img:hover {
+    width: 400px;
+}
 .big-mom {
     display: flex;
     justify-content: center;
